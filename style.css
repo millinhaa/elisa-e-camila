@@ -1,4 +1,4 @@
- {
+* {
      margin: 0;
      padding: 0;
 }
@@ -20,4 +20,25 @@
      display: inline-block;
      margin: 0 16px;
      font-size: 24px;
+
+}
+
+.escola-imagem{
+     width: 25;
+}
+
+.escola{
+     background-image: linear-gradient(rgb(32, 32, 121), rgb(50, 50, 141));
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 24px 0;
+}
+
+.escola-div-conteudo{
+     width: 35%;
+}
+.escola-titulo{
+     padding: 24px 0;
 }
