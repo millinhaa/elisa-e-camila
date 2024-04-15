@@ -1,16 +1,15 @@
-
 * {
      margin: 0;
      padding: 0;
 }
 
 .cabecalho{
-     background-color: #4682B4;
-     color:#f5f5f5;
+     background-color: #29608d;
+     color:#ffffff;
      display: flex;
      justify-content: space-around;
      align-items: center;
-     padding: 24px o;
+     padding: 25px o;
 }
 
 .cabecalho-imagem{
@@ -24,33 +23,33 @@
 
 }
 
-.escola-imagem{
+.loja-imagem{
      width: 25;
 }
 
-.escola{
-     background-image: linear-gradient(rgb(32, 32, 121), rgb(50, 50, 141));
-     color: rgb(201, 194, 194);
+.loja{
+     background-color: linear-gradient ( #29608d, #29608d1);
+     color: #ffffff;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.loja-div-conteudo{
      width: 35%;
 }
-.escola-titulo{
+.loja-titulo{
      padding: 24px 0;
 }
 
 .estudante-imagem{
-     width: 12%;
+     width: 7%;
 }
 
 .estudante{
      padding: 24px 0;
-     background-color: #98c8f0;
+     background-color: #12334e;
 }
 
 .estudante-icone{
@@ -64,4 +63,7 @@
 }
 .rodape-imagem{
      width: 45%;
+}
+.loja-div-conteudo{
+background-color: #225075;
 }
