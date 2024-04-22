@@ -1,4 +1,4 @@
-* {
+{
      margin: 0;
      padding: 0;
 }
@@ -37,19 +37,19 @@
 }
 
 .loja-div-conteudo{
-     width: 35%;
+     width: 50%;
 }
 .loja-titulo{
      padding: 24px 0;
 }
 
 .estudante-imagem{
-     width: 7%;
+     width: 15 %;
 }
 
 .estudante{
      padding: 24px 0;
-     background-color: #12334e;
+     background-color: #1e5f93;
 }
 
 .estudante-icone{
